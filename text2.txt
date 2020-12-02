@@ -1,0 +1,25 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4C67-8658
+
+<<<<<<< HEAD
+ Directory of C:\Users\brsre\git
+
+02-12-2020  12:11    <DIR>          .
+02-12-2020  12:11    <DIR>          ..
+02-12-2020  11:48    <DIR>          gitclassroom
+02-12-2020  12:11                 0 text2.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  693,210,218,496 bytes free
+=======
+ Directory of C:\Users\brsre\gitdemos
+
+02-12-2020  03:35    <DIR>          .
+02-12-2020  03:35    <DIR>          ..
+02-12-2020  02:54               480 index.html
+02-12-2020  02:37                17 sample.txt
+02-12-2020  02:21                60 sample1.txt
+02-12-2020  02:12                 8 Sree.txt
+02-12-2020  03:35                 0 text2.txt
+               5 File(s)            565 bytes
+               2 Dir(s)  693,533,458,432 bytes free
+>>>>>>> 697a27ee591738b588a795366d7c7c565629be9b
